@@ -1,6 +1,6 @@
 ﻿<Properties StartupConfiguration="{3EEE5D29-CE7E-4948-A1D1-C94606DCA739}|Default">
   <MonoDevelop.Ide.ItemProperties.KloudCodingChallenge PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="KloudCodingChallenge.Test/Model.Test.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="KloudCodingChallenge/Configs/appsettings.Development.json">
     <Files>
       <File FileName="KloudCodingChallenge.Common/Class1.cs" Line="1" Column="1" />
       <File FileName="KloudCodingChallenge.Model/Class1.cs" Line="1" Column="1" />
@@ -18,14 +18,17 @@
       <File FileName="KloudCodingChallenge/bower.json" Line="1" Column="1" />
       <File FileName="KloudCodingChallenge/bundleconfig.json" Line="1" Column="1" />
       <File FileName="KloudCodingChallenge/package-lock.json" Line="1" Column="1" />
-      <File FileName="KloudCodingChallenge/Program.cs" Line="1" Column="1" />
+      <File FileName="KloudCodingChallenge/Program.cs" Line="25" Column="2" />
       <File FileName="KloudCodingChallenge/Controllers/HomeController.cs" Line="21" Column="52" />
       <File FileName="KloudCodingChallenge.Test/Class1.cs" Line="1" Column="1" />
       <File FileName="KloudCodingChallenge.Test/DataService.Test.cs" Line="17" Column="2" />
-      <File FileName="KloudCodingChallenge.Test/xunit.runner.json" Line="1" Column="1" />
+      <File FileName="KloudCodingChallenge.Test/xunit.runner.json" Line="3" Column="2" />
       <File FileName="KloudCodingChallenge.Test/ListExtention.Test.cs" Line="11" Column="31" />
       <File FileName="KloudCodingChallenge.Test/MemoryCacheService.Test.cs" Line="7" Column="36" />
       <File FileName="KloudCodingChallenge.Test/Model.Test.cs" Line="4" Column="13" />
+      <File FileName="build.sh" Line="1" Column="1" />
+      <File FileName="KloudCodingChallenge/Configs/appsettings.json" Line="1" Column="1" />
+      <File FileName="KloudCodingChallenge/Configs/appsettings.Development.json" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
