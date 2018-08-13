@@ -1,10 +1,14 @@
 language: csharp
 dist: trusty
+sudo: required
 mono: none
 dotnet: 2.0.0
+solution: KloudCodingChallenge.sln
 script:
-- dotnet build
-- dotnet test KloudCodingChallenge.Test/KloudCodingChallenge.Test.csproj
+  - cd KloudCodingChallenge
+  - dotnet restore
+  - dotnet build -c Release
+  - dotnet test KloudCodingChallenge.Test/KloudCodingChallenge.Test.csproj
 deploy:
   provider: azure_web_apps
 notifications:
