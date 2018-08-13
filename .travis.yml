@@ -9,8 +9,6 @@ script:
   - dotnet restore
   - dotnet build -c Release
   - dotnet test KloudCodingChallenge.Test/KloudCodingChallenge.Test.csproj
-deploy:
-  provider: azure_web_apps
 notifications:
   email:
     - lingalamanojreddy@outlook.com
