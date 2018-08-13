@@ -1,0 +1,17 @@
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge/bin/Debug/netcoreapp2.0/KloudCodingChallenge.deps.json
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge/bin/Debug/netcoreapp2.0/KloudCodingChallenge.runtimeconfig.json
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge/bin/Debug/netcoreapp2.0/KloudCodingChallenge.runtimeconfig.dev.json
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge/bin/Debug/netcoreapp2.0/KloudCodingChallenge.dll
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge/bin/Debug/netcoreapp2.0/KloudCodingChallenge.pdb
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge/bin/Debug/netcoreapp2.0/KloudCodingChallenge.Common.dll
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge/bin/Debug/netcoreapp2.0/KloudCodingChallenge.Model.dll
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge/bin/Debug/netcoreapp2.0/KloudCodingChallenge.Service.dll
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge/bin/Debug/netcoreapp2.0/KloudCodingChallenge.Common.pdb
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge/bin/Debug/netcoreapp2.0/KloudCodingChallenge.Model.pdb
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge/bin/Debug/netcoreapp2.0/KloudCodingChallenge.Service.pdb
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge/obj/Debug/netcoreapp2.0/KloudCodingChallenge.csprojResolveAssemblyReference.cache
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge/obj/Debug/netcoreapp2.0/KloudCodingChallenge.csproj.CoreCompileInputs.cache
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge/obj/Debug/netcoreapp2.0/KloudCodingChallenge.AssemblyInfoInputs.cache
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge/obj/Debug/netcoreapp2.0/KloudCodingChallenge.AssemblyInfo.cs
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge/obj/Debug/netcoreapp2.0/KloudCodingChallenge.dll
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge/obj/Debug/netcoreapp2.0/KloudCodingChallenge.pdb

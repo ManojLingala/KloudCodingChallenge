@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{3EEE5D29-CE7E-4948-A1D1-C94606DCA739}|Default">
+  <MonoDevelop.Ide.ItemProperties.KloudCodingChallenge PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="KloudCodingChallenge.Test/Model.Test.cs">
+    <Files>
+      <File FileName="KloudCodingChallenge.Common/Class1.cs" Line="1" Column="1" />
+      <File FileName="KloudCodingChallenge.Model/Class1.cs" Line="1" Column="1" />
+      <File FileName="KloudCodingChallenge.Model/Interfaces/ICar.cs" Line="9" Column="1" />
+      <File FileName="KloudCodingChallenge.Model/Entities/AppConfig.cs" Line="6" Column="27" />
+      <File FileName="KloudCodingChallenge.Model/Entities/Car.cs" Line="10" Column="10" />
+      <File FileName="KloudCodingChallenge.Common/Utilities/ListExtensions.cs" Line="8" Column="2" />
+      <File FileName="KloudCodingChallenge.Service/Class1.cs" Line="1" Column="1" />
+      <File FileName="KloudCodingChallenge.Service/Services/DataService.cs" Line="23" Column="46" />
+      <File FileName="KloudCodingChallenge.Service/Interfaces/ICacheService.cs" Line="1" Column="1" />
+      <File FileName="KloudCodingChallenge.Service/Interfaces/IDataService.cs" Line="14" Column="1" />
+      <File FileName="KloudCodingChallenge.Service/Services/MemoryCacheService.cs" Line="1" Column="14" />
+      <File FileName="KloudCodingChallenge/Controllers/CarController.cs" Line="1" Column="1" />
+      <File FileName="KloudCodingChallenge/Startup.cs" Line="21" Column="25" />
+      <File FileName="KloudCodingChallenge/bower.json" Line="1" Column="1" />
+      <File FileName="KloudCodingChallenge/bundleconfig.json" Line="1" Column="1" />
+      <File FileName="KloudCodingChallenge/package-lock.json" Line="1" Column="1" />
+      <File FileName="KloudCodingChallenge/Program.cs" Line="1" Column="1" />
+      <File FileName="KloudCodingChallenge/Controllers/HomeController.cs" Line="21" Column="52" />
+      <File FileName="KloudCodingChallenge.Test/Class1.cs" Line="1" Column="1" />
+      <File FileName="KloudCodingChallenge.Test/DataService.Test.cs" Line="17" Column="2" />
+      <File FileName="KloudCodingChallenge.Test/xunit.runner.json" Line="1" Column="1" />
+      <File FileName="KloudCodingChallenge.Test/ListExtention.Test.cs" Line="11" Column="31" />
+      <File FileName="KloudCodingChallenge.Test/MemoryCacheService.Test.cs" Line="7" Column="36" />
+      <File FileName="KloudCodingChallenge.Test/Model.Test.cs" Line="4" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

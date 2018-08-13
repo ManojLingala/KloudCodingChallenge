@@ -1,0 +1,8 @@
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge.Model/bin/Debug/netcoreapp2.0/KloudCodingChallenge.Model.deps.json
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge.Model/bin/Debug/netcoreapp2.0/KloudCodingChallenge.Model.dll
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge.Model/bin/Debug/netcoreapp2.0/KloudCodingChallenge.Model.pdb
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge.Model/obj/Debug/netcoreapp2.0/KloudCodingChallenge.Model.csproj.CoreCompileInputs.cache
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge.Model/obj/Debug/netcoreapp2.0/KloudCodingChallenge.Model.AssemblyInfoInputs.cache
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge.Model/obj/Debug/netcoreapp2.0/KloudCodingChallenge.Model.AssemblyInfo.cs
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge.Model/obj/Debug/netcoreapp2.0/KloudCodingChallenge.Model.dll
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge.Model/obj/Debug/netcoreapp2.0/KloudCodingChallenge.Model.pdb

@@ -1,0 +1,13 @@
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge.Service/bin/Debug/netcoreapp2.0/KloudCodingChallenge.Service.deps.json
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge.Service/bin/Debug/netcoreapp2.0/KloudCodingChallenge.Service.dll
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge.Service/bin/Debug/netcoreapp2.0/KloudCodingChallenge.Service.pdb
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge.Service/bin/Debug/netcoreapp2.0/KloudCodingChallenge.Common.dll
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge.Service/bin/Debug/netcoreapp2.0/KloudCodingChallenge.Model.dll
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge.Service/bin/Debug/netcoreapp2.0/KloudCodingChallenge.Common.pdb
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge.Service/bin/Debug/netcoreapp2.0/KloudCodingChallenge.Model.pdb
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge.Service/obj/Debug/netcoreapp2.0/KloudCodingChallenge.Service.csprojResolveAssemblyReference.cache
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge.Service/obj/Debug/netcoreapp2.0/KloudCodingChallenge.Service.csproj.CoreCompileInputs.cache
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge.Service/obj/Debug/netcoreapp2.0/KloudCodingChallenge.Service.AssemblyInfoInputs.cache
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge.Service/obj/Debug/netcoreapp2.0/KloudCodingChallenge.Service.AssemblyInfo.cs
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge.Service/obj/Debug/netcoreapp2.0/KloudCodingChallenge.Service.dll
+/Users/manojlingala/Desktop/KloudCodingChallenge/KloudCodingChallenge/KloudCodingChallenge.Service/obj/Debug/netcoreapp2.0/KloudCodingChallenge.Service.pdb

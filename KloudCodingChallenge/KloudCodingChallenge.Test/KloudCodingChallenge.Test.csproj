@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="xunit" Version="2.3.0" />
+    <PackageReference Include="xunit.runner.console" Version="2.3.0" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.3.0" />
+    <PackageReference Include="Moq" Version="4.7.127" />
+    <PackageReference Include="RichardSzalay.MockHttp" Version="5.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\KloudCodingChallenge\KloudCodingChallenge.csproj" />
+    <ProjectReference Include="..\KloudCodingChallenge.Common\KloudCodingChallenge.Common.csproj" />
+    <ProjectReference Include="..\KloudCodingChallenge.Model\KloudCodingChallenge.Model.csproj" />
+    <ProjectReference Include="..\KloudCodingChallenge.Service\KloudCodingChallenge.Service.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Class1.cs" />
+  </ItemGroup>
+</Project>

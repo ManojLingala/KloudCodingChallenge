@@ -1,0 +1,96 @@
+swagger: '2.0'
+info:
+  title: Kloud Code Challenge
+  description: >-
+    Simple API to test how developers has been well architected using development best practices.
+  version: 1.0.0
+host: kloudcodingchallenge.azurewebsites.net
+basePath: /api
+schemes:
+  - https
+paths:
+  /:
+    get:
+      tags:
+        - meta
+      summary: Get API Metadata information.
+      description: Information about the API being provided.
+      produces:
+        - application/json
+      parameters: []
+      responses:
+        '200':
+          description: OK
+          schema:
+            type: object
+            properties:
+              api_name:
+                type: string
+              api_version:
+                type: string
+              api_release:
+                type: string
+              api_documentation:
+                type: string
+              api_status:
+                type: string
+          examples:
+            application/json:
+              api_name: Kloud Code Challenge
+              api_version: 1.0.0
+              api_release: '2018-08-13'
+              api_documentation: /link/to/api/documentation
+              api_status: active
+  /cars:
+    get:
+      tags:
+        - code challenge
+      description: API to produce a list of the owners names, grouped by their cars brand alphabetically, and sorted by their car's colour alphabetically.
+      produces:
+        - application/json
+      parameters: []
+      responses:
+        '200':
+          description: sucessful operation
+          schema:
+            $ref: '#/definitions/car_response'
+        '404':
+          description: Not Found - The object does not exists
+        '406':
+          description: Not Acceptable
+        '408':
+          description: Request Timeout
+        '417':
+          description: Expectation Failed
+        '500':
+          description: >-
+            Internal Server Error - There may be additional error details
+            provided in the response body
+          examples:
+            error-message:
+              id: c4cd6c50-3631-cbe3-4971-a6e40840405ff
+              code: 500
+              detail: Please contact lingalamanojreddy@outlook.com.
+   
+      security:
+        - apiKeyHeader: []
+securityDefinitions:
+  apiKeyHeader:
+    type: apiKey
+    name: X-API-KEY
+    in: header
+definitions:
+  car_response:
+    type: array
+    items:
+      type: object
+      properties:
+        car_name:
+          type: string
+          description: Name of the car group by alphabetically
+          example: Toyota
+        owner_name:
+          type: string
+          description: Name of the car owner
+          example: Kristin
+
