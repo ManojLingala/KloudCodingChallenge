@@ -7,7 +7,7 @@ solution: KloudCodingChallenge.sln
 script:
   - cd KloudCodingChallenge
   - dotnet restore
-  - dotnet build -c Release
+  - dotnet build
   - dotnet test KloudCodingChallenge.Test/KloudCodingChallenge.Test.csproj
 deploy:
   provider: azure_web_apps
